@@ -7,7 +7,7 @@ Ainda está em desenvolvimento.
 
 Para acessar o site:
 
-Clique em code -> Faça o dowload zip -> Com o botão direito do mouse clique no arquivo -> Clique em extrair aqui -> Abra a pasta -> Dê 2 cLiques no arquivo HTML
+Clique em code -> Faça o dowload zip -> Com o botão direito do mouse clique no arquivo -> Clique em extrair aqui -> Abra a pasta symple static -> Dê 2 cLiques no arquivo INDEX
 
 O projeto:
 
