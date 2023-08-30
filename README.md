@@ -7,7 +7,7 @@ Ainda está em desenvolvimento.
 
 Para acessar o site:
 
-Clique em code -> Faça o dowload zip -> Com o botão direito do mouse clique no arquivo -> Clique em extrair aqui -> Abra a pasta symple static -> Dê 2 cLiques no arquivo INDEX
+Clique em code -> Faça o dowload zip -> Com o botão direito do mouse clique no arquivo -> Clique em extrair aqui -> Abra a pasta jornada-viagens-main -> Dê 2 cLiques no arquivo INDEX
 
 O projeto:
 
